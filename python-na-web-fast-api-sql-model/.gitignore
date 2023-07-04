@@ -145,3 +145,6 @@ dmypy.json
 
 # MacOS files
 .DS_Store
+
+# Database
+database.sqlite
